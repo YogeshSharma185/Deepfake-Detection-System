@@ -57,7 +57,7 @@ A comprehensive Deepfake Detection System built using Python and Streamlit. This
 1. **Clone the repository**
    ```bash
    git clone https://github.com/YogeshSharma185/Deepfake-Detection-System.git
-   cd deepfake-detector
+   cd Deepfake-Detection-System
    ```
 
 2. **Create a virtual environment (optional but recommended)**
