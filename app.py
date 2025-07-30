@@ -5,10 +5,10 @@ import base64  # For video display using html and st.video
 st.set_page_config(page_title="🧠 Deepfake Detection System", layout="wide")
 
 # === HEADER ===
-st.markdown("<h1 style='text-align: center;'>🎭 Deepfake Detection System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🕵️‍♂️ Deepfake Detection System</h1>", unsafe_allow_html=True)
 st.markdown("""
 <p style='text-align: center; font-size: 18px;'>
-🎭 <strong>Deepfake or Real? Upload and Know in Seconds.</strong><br>
+🕵️‍♂️ <strong>Deepfake or Real? Upload and Know in Seconds.</strong><br>
 We analyze <strong>faces</strong>, <strong>frames</strong>, and <strong>voices</strong> using cutting-edge AI to detect even the most subtle manipulations.
 </p>
 """, unsafe_allow_html=True)
