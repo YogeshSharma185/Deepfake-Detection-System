@@ -34,11 +34,11 @@ A comprehensive Deepfake Detection System built using Python and Streamlit. This
 
 ## 🧠 Models Used
 
-| Modality | Model Name | Source |
-|----------|------------|--------|
+| Modality |                Model Name                  | Source       |
+|----------|--------------------------------------------|--------------|
 | Image    | `prithivMLmods/deepfake-detector-model-v1` | Hugging Face |
-| Video    | Frame-level analysis via image model | Internal |
-| Audio    | `mo-thecreator/Deepfake-audio-detection` | Hugging Face |
+| Video    | Frame-level analysis via image model       | Internal     |
+| Audio    | `mo-thecreator/Deepfake-audio-detection`   | Hugging Face |
 
 ---
 
