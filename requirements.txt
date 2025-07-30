@@ -1,0 +1,23 @@
+# --- Core Dependencies ---
+streamlit                 # UI framework ✅ used
+opencv-python             # Video frame capture ✅ used
+numpy                     # Array operations ✅ used
+Pillow                    # Image processing (PIL) ✅ used
+matplotlib                # Audio waveform visualization ✅ used
+
+# --- Deep Learning ---
+torch                     # Core deep learning library ✅ used
+torchvision               # Image processing utils ✅ used
+torchaudio                # Audio I/O and preprocessing ✅ used
+facenet-pytorch           # Face detection (MTCNN) ✅ used
+
+# --- Transformers & HuggingFace ---
+transformers              # HuggingFace model loader ✅ used
+datasets                  # Dataset loader (used in training) ✅ optional for app
+huggingface_hub           # HF model downloads ✅ used
+
+
+# --- Environment / Config ---
+python-dotenv             # Loads .env files ✅ used
+
+
